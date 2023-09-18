@@ -1,7 +1,7 @@
 +++
 title = "Primeiros passos com o Renesas Flash Programmer"
 date = "2023-09-05"
-categories = ["renesas","ra","embarcados"]
+categories = ["Renesas","RA","Embarcados"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"

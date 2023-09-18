@@ -1,7 +1,7 @@
 +++
 title = "Como proteger a memória flash dos MCUs RA (ARM Cortex M33) contra leitura"
 date = "2023-09-15"
-categories = ["renesas","ra","embarcados"]
+categories = ["Renesas","RA","Embarcados"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"

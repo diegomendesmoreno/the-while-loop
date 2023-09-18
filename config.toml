@@ -158,10 +158,10 @@ publishDir   = "public"
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "../../../../../assets/img/logo_whileloop_light.png"
-  #   alt      = "Logo"
-  #   maxWidth = "500px"
+  [params.portrait]
+    path     = "../../../../../assets/img/logo_whileloop_light.png"
+    alt      = "Logo"
+    maxWidth = "300px"
 
   # Social icons
   [[params.social]]
@@ -199,19 +199,23 @@ publishDir   = "public"
 
 [menu]
   [[languages.pt-BR.menu.main]]
-    identifier = "sobre"
-    name       = "Sobre"
-    url        = "sobre/"
-  [[languages.pt-BR.menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 1
+  [[languages.pt-BR.menu.main]]
+    identifier = "categorias"
+    name       = "Categorias"
+    url        = "categories/"
+    weight     = 2
 
   [[languages.en.menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[languages.en.menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 1
+  [[languages.en.menu.main]]
+    identifier = "categories"
+    name       = "Categories"
+    url        = "categories/"
+    weight     = 2

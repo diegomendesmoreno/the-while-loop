@@ -1,7 +1,7 @@
 +++
 title = "Getting Started with Renesas Flash Programmer"
 date = "2023-09-05"
-categories = ["renesas","ra","embedded"]
+categories = ["Renesas","RA","Embedded"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"

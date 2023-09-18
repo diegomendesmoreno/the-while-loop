@@ -1,7 +1,7 @@
 +++
 title = "How to Read Microcontroller Memory with Renesas Flash Programmer"
 date = "2023-09-10"
-categories = ["renesas","ra","embedded"]
+categories = ["Renesas","RA","Embedded"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"
