@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Hello Friend NG"
+title = "The While Loop"
 theme = "hugo-theme-hello-friend-ng"
 
 defaultContentLanguage = 'pt-br'
@@ -52,17 +52,17 @@ publishDir   = "public"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  # dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Tech blog about programming and embedded"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  # homeSubtitle = "Hello Friend NG"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -127,14 +127,14 @@ publishDir   = "public"
 
   # Colors for favicons
   #
-  [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+  # [params.favicon.color]
+  #   mask = "#1b1c1d"
+  #   msapplication = "#1b1c1d"
+  #   theme = "#1b1c1d"
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd the_while_loop"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -159,30 +159,22 @@ publishDir   = "public"
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  #   path     = "../../../../../assets/img/logo_whileloop_light.png"
+  #   alt      = "Logo"
+  #   maxWidth = "500px"
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "https://diegomendesmoreno.github.io/"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/diegomendesmoreno"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://www.linkedin.com/in/diego-mendes-moreno-8246a62a/"
 
 [languages]
   [languages.pt-BR]
@@ -191,7 +183,7 @@ publishDir   = "public"
     languageCode = 'pt-BR'
     languageDirection = 'ltr'
     languageName = 'Português'
-    subtitle  = "Hello Friend NG Theme - PT"
+    subtitle  = "PT"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -201,7 +193,7 @@ publishDir   = "public"
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    subtitle  = "Hello Friend NG Theme - EN"
+    subtitle  = "EN"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
