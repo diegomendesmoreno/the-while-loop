@@ -1,7 +1,7 @@
 +++
 title = "Bibliotecas em C, Object files e Shared Objects"
 date = "2023-09-18"
-categories = ["Programming","C"]
+categories = ["Programação","C"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"

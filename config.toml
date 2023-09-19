@@ -2,7 +2,7 @@ baseURL = "/"
 title = "The While Loop"
 theme = "hugo-theme-hello-friend-ng"
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'pt-br'
 defaultContentLanguageInSubdir = true
 
 PygmentsCodeFences = true
