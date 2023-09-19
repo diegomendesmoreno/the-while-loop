@@ -5,6 +5,7 @@ categories = ["Renesas","RA","Embarcados"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"
+draft = false
 +++
 
 ## Introdução

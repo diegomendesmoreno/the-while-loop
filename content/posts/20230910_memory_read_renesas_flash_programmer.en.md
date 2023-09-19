@@ -5,6 +5,7 @@ categories = ["Renesas","RA","Embedded"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"
+draft = false
 +++
 
 ## Introduction
