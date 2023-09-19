@@ -1,6 +1,6 @@
 ![RFP Read Memory](static/assets/img/logo_whileloop_light.png)
 
-# The While Loop
+# [The While Loop](https://diegomendesmoreno.github.io/the-while-loop/)
 
 This is a tech blog filled with programming and embedded content.
 

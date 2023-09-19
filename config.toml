@@ -135,7 +135,7 @@ publishDir   = "public"
   [params.logo]
     logoMark     = ">"
     logoText     = "$ cd the_while_loop"
-    logoHomeLink = "/"
+    logoHomeLink = "/the-while-loop/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
@@ -159,7 +159,7 @@ publishDir   = "public"
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "../../../../../assets/img/logo_whileloop_light.png"
+    path     = "../assets/img/logo_whileloop_light.png"
     alt      = "Logo"
     maxWidth = "300px"
 
