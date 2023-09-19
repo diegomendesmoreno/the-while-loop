@@ -11,8 +11,8 @@ PygmentsStyle = "monokai"
 paginate  = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-# disqusShortname = ""
+googleAnalytics = ""
+disqusShortname = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -20,19 +20,18 @@ dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
-# buildDrafts  = false
-# buildFuture  = false
-# buildExpired = false
-# canonifyURLs = true
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
 
-# enableRobotsTXT = true
-# enableGitInfo   = false
-# enableEmoji     = true
-# enableMissingTranslationPlaceholders = false
-# disableRSS     = false
-# disableSitemap = false
-# disable404     = false
-# disableHugoGeneratorInject = false
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -52,7 +51,6 @@ publishDir   = "public"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  # dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
   # 

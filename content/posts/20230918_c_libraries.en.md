@@ -5,7 +5,7 @@ categories = ["Programming","C"]
 type = ["posts","post"]
 [ author ]
   name = "Diego Moreno"
-draft = true
+draft = false
 +++
 
 ## Introduction
